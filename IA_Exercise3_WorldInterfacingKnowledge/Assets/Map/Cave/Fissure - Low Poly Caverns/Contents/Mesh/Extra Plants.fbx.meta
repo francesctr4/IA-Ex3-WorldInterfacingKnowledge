@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: cb5a9376222dfbe4986865202235bd7e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Broadleaf Plant 1
+    100002: Broadleaf Plant 2
+    100004: Broadleaf Plant 3
+    100006: //RootNode
+    100008: Fir Tree
+    100010: Long Ivy
+    100012: Medium Grass 1
+    100014: Medium Grass 2
+    100016: Root
+    100018: Short Ivy 1
+    100020: Short Ivy 2
+    100022: Small Toadstool 1
+    100024: Small Toadstool 2
+    100026: Small Toadstool 3
+    100028: Thick Grass 1
+    100030: Thick Grass 2
+    100032: Thin Grass 1
+    100034: Thin Grass 2
+    100036: Thresh Plant
+    400000: Broadleaf Plant 1
+    400002: Broadleaf Plant 2
+    400004: Broadleaf Plant 3
+    400006: //RootNode
+    400008: Fir Tree
+    400010: Long Ivy
+    400012: Medium Grass 1
+    400014: Medium Grass 2
+    400016: Root
+    400018: Short Ivy 1
+    400020: Short Ivy 2
+    400022: Small Toadstool 1
+    400024: Small Toadstool 2
+    400026: Small Toadstool 3
+    400028: Thick Grass 1
+    400030: Thick Grass 2
+    400032: Thin Grass 1
+    400034: Thin Grass 2
+    400036: Thresh Plant
+    2100000: Trunk
+    2100002: Leaves
+    2100004: No Name
+    2100006: Top
+    2100008: Material
+    2300000: Broadleaf Plant 1
+    2300002: Broadleaf Plant 2
+    2300004: Broadleaf Plant 3
+    2300006: Fir Tree
+    2300008: Long Ivy
+    2300010: Medium Grass 1
+    2300012: Medium Grass 2
+    2300014: Root
+    2300016: Short Ivy 1
+    2300018: Short Ivy 2
+    2300020: Small Toadstool 1
+    2300022: Small Toadstool 2
+    2300024: Small Toadstool 3
+    2300026: Thick Grass 1
+    2300028: Thick Grass 2
+    2300030: Thin Grass 1
+    2300032: Thin Grass 2
+    2300034: Thresh Plant
+    3300000: Broadleaf Plant 1
+    3300002: Broadleaf Plant 2
+    3300004: Broadleaf Plant 3
+    3300006: Fir Tree
+    3300008: Long Ivy
+    3300010: Medium Grass 1
+    3300012: Medium Grass 2
+    3300014: Root
+    3300016: Short Ivy 1
+    3300018: Short Ivy 2
+    3300020: Small Toadstool 1
+    3300022: Small Toadstool 2
+    3300024: Small Toadstool 3
+    3300026: Thick Grass 1
+    3300028: Thick Grass 2
+    3300030: Thin Grass 1
+    3300032: Thin Grass 2
+    3300034: Thresh Plant
+    4300000: Fir Tree
+    4300002: Long Ivy
+    4300004: Short Ivy 1
+    4300006: Short Ivy 2
+    4300008: Medium Grass 1
+    4300010: Medium Grass 2
+    4300012: Thick Grass 1
+    4300014: Thick Grass 2
+    4300016: Thin Grass 1
+    4300018: Thin Grass 2
+    4300020: Small Toadstool 1
+    4300022: Small Toadstool 2
+    4300024: Small Toadstool 3
+    4300026: Broadleaf Plant 1
+    4300028: Broadleaf Plant 2
+    4300030: Broadleaf Plant 3
+    4300032: Thresh Plant
+    4300034: Root
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 8e73c9c0d085ba44b815fbc7a1526ec7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bridge 1
+    100004: Fence 1
+    100006: Fence 2
+    100008: Fence 3
+    100010: Fence 4
+    100012: Fence 5
+    100014: Fence 6
+    100016: Flat Rock 1
+    100018: Flat Rock 2
+    100020: Flat Rock 3
+    100022: Flat Rock 4
+    100024: Flat Rock 5
+    100026: Large Flat Rock 1
+    100028: Large Flat Rock 2
+    100030: Large Flat Rock 3
+    100032: Large Flat Rock 4
+    100034: Large Flat Rock 5
+    100036: Large Flat Rock 6
+    100038: Pebble 1
+    100040: Pebble 2
+    100042: Pebble 3
+    100044: Pebble 4
+    100046: Pebble 5
+    100048: Pebble 6
+    100050: Pebble 7
+    100052: Rock 01
+    100054: Rock 02
+    100056: Rock 03
+    100058: Rock 04
+    100060: Rock 05
+    100062: Rock 06
+    100064: Rock 07
+    100066: Rock 08
+    100068: Rock 09
+    100070: Rock 10
+    100072: Rock 11
+    100074: Rock 12
+    100076: Rock 13
+    100078: Rock 14
+    100080: Rock 15
+    100082: Rock 16
+    100084: Rock 17
+    100086: Rock 18
+    100088: Rock 19
+    100090: Rock 20
+    100092: Flat Stone 1
+    100094: Flat Stone 2
+    100096: Flat Stone 3
+    100098: Flat Stone 4
+    100100: Flat Stone 5
+    100102: Wide Flat Stone
+    400000: //RootNode
+    400002: Bridge 1
+    400004: Fence 1
+    400006: Fence 2
+    400008: Fence 3
+    400010: Fence 4
+    400012: Fence 5
+    400014: Fence 6
+    400016: Flat Rock 1
+    400018: Flat Rock 2
+    400020: Flat Rock 3
+    400022: Flat Rock 4
+    400024: Flat Rock 5
+    400026: Large Flat Rock 1
+    400028: Large Flat Rock 2
+    400030: Large Flat Rock 3
+    400032: Large Flat Rock 4
+    400034: Large Flat Rock 5
+    400036: Large Flat Rock 6
+    400038: Pebble 1
+    400040: Pebble 2
+    400042: Pebble 3
+    400044: Pebble 4
+    400046: Pebble 5
+    400048: Pebble 6
+    400050: Pebble 7
+    400052: Rock 01
+    400054: Rock 02
+    400056: Rock 03
+    400058: Rock 04
+    400060: Rock 05
+    400062: Rock 06
+    400064: Rock 07
+    400066: Rock 08
+    400068: Rock 09
+    400070: Rock 10
+    400072: Rock 11
+    400074: Rock 12
+    400076: Rock 13
+    400078: Rock 14
+    400080: Rock 15
+    400082: Rock 16
+    400084: Rock 17
+    400086: Rock 18
+    400088: Rock 19
+    400090: Rock 20
+    400092: Flat Stone 1
+    400094: Flat Stone 2
+    400096: Flat Stone 3
+    400098: Flat Stone 4
+    400100: Flat Stone 5
+    400102: Wide Flat Stone
+    2100000: No Name
+    2100002: Rock
+    2300000: //RootNode
+    2300002: Bridge 1
+    2300004: Fence 1
+    2300006: Fence 2
+    2300008: Fence 3
+    2300010: Fence 4
+    2300012: Fence 5
+    2300014: Fence 6
+    2300016: Flat Rock 1
+    2300018: Flat Rock 2
+    2300020: Flat Rock 3
+    2300022: Flat Rock 4
+    2300024: Flat Rock 5
+    2300026: Large Flat Rock 1
+    2300028: Large Flat Rock 2
+    2300030: Large Flat Rock 3
+    2300032: Large Flat Rock 4
+    2300034: Large Flat Rock 5
+    2300036: Large Flat Rock 6
+    2300038: Pebble 1
+    2300040: Pebble 2
+    2300042: Pebble 3
+    2300044: Pebble 4
+    2300046: Pebble 5
+    2300048: Pebble 6
+    2300050: Pebble 7
+    2300052: Rock 01
+    2300054: Rock 02
+    2300056: Rock 03
+    2300058: Rock 04
+    2300060: Rock 05
+    2300062: Rock 06
+    2300064: Rock 07
+    2300066: Rock 08
+    2300068: Rock 09
+    2300070: Rock 10
+    2300072: Rock 11
+    2300074: Rock 12
+    2300076: Rock 13
+    2300078: Rock 14
+    2300080: Rock 15
+    2300082: Rock 16
+    2300084: Rock 17
+    2300086: Rock 18
+    2300088: Rock 19
+    2300090: Rock 20
+    2300092: Flat Stone 1
+    2300094: Flat Stone 2
+    2300096: Flat Stone 3
+    2300098: Flat Stone 4
+    2300100: Flat Stone 5
+    2300102: Wide Flat Stone
+    3300000: //RootNode
+    3300002: Bridge 1
+    3300004: Fence 1
+    3300006: Fence 2
+    3300008: Fence 3
+    3300010: Fence 4
+    3300012: Fence 5
+    3300014: Fence 6
+    3300016: Flat Rock 1
+    3300018: Flat Rock 2
+    3300020: Flat Rock 3
+    3300022: Flat Rock 4
+    3300024: Flat Rock 5
+    3300026: Large Flat Rock 1
+    3300028: Large Flat Rock 2
+    3300030: Large Flat Rock 3
+    3300032: Large Flat Rock 4
+    3300034: Large Flat Rock 5
+    3300036: Large Flat Rock 6
+    3300038: Pebble 1
+    3300040: Pebble 2
+    3300042: Pebble 3
+    3300044: Pebble 4
+    3300046: Pebble 5
+    3300048: Pebble 6
+    3300050: Pebble 7
+    3300052: Rock 01
+    3300054: Rock 02
+    3300056: Rock 03
+    3300058: Rock 04
+    3300060: Rock 05
+    3300062: Rock 06
+    3300064: Rock 07
+    3300066: Rock 08
+    3300068: Rock 09
+    3300070: Rock 10
+    3300072: Rock 11
+    3300074: Rock 12
+    3300076: Rock 13
+    3300078: Rock 14
+    3300080: Rock 15
+    3300082: Rock 16
+    3300084: Rock 17
+    3300086: Rock 18
+    3300088: Rock 19
+    3300090: Rock 20
+    3300092: Flat Stone 1
+    3300094: Flat Stone 2
+    3300096: Flat Stone 3
+    3300098: Flat Stone 4
+    3300100: Flat Stone 5
+    3300102: Wide Flat Stone
+    4300000: Crater 1
+    4300002: Fence 1
+    4300004: Flat Rock 1
+    4300006: Flat Rock 2
+    4300008: Flat Rock 3
+    4300010: Flat Rock 4
+    4300012: Flat Rock 5
+    4300014: Pebble 1
+    4300016: Pebble 2
+    4300018: Pebble 3
+    4300020: Pebble 4
+    4300022: Pebble 5
+    4300024: Fence 2
+    4300026: Fence 3
+    4300028: Fence 4
+    4300030: Fence 5
+    4300032: Fence 6
+    4300034: Pebble 6
+    4300036: Pebble 7
+    4300038: Rock 15
+    4300040: Rock 01
+    4300042: Rock 02
+    4300044: Rock 03
+    4300046: Rock 20
+    4300048: Rock 05
+    4300050: Rock 06
+    4300052: Rock 07
+    4300054: Rock 08
+    4300056: Rock 09
+    4300058: Rock 10
+    4300060: Rock 11
+    4300062: Rock 12
+    4300064: Rock 13
+    4300066: Rock 14
+    4300068: Rock 04
+    4300070: Rock 16
+    4300072: Rock 17
+    4300074: Rock 18
+    4300076: Rock 19
+    4300078: Large Flat Rock 4
+    4300080: Large Flat Rock 5
+    4300082: Bridge 1
+    4300084: Large Flat Rock 3
+    4300086: Large Flat Rock 6
+    4300088: Large Flat Rock 1
+    4300090: Large Flat Rock 2
+    4300092: Flat Stone 5
+    4300094: Flat Stone 1
+    4300096: Flat Stone 2
+    4300098: Flat Stone 3
+    4300100: Flat Stone 4
+    4300102: Wide Flat Stone
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

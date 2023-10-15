@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: bf16cb48bb0d9254386ed0d3d3a0d0a9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Basin 1
+    100002: Basin 10
+    100004: Basin 2
+    100006: Basin 3
+    100008: Basin 4
+    100010: Basin 5
+    100012: Basin 6
+    100014: Basin 7
+    100016: Basin 8
+    100018: Basin 9
+    100020: //RootNode
+    100022: Dunes 1
+    100024: Dunes 2
+    100026: Dunes 3
+    100028: Dunes 4
+    100030: Soft Dune 1
+    100032: Soft Dune 2
+    100034: Soft Dune 3
+    100036: Soft Dune 4
+    400000: Basin 1
+    400002: Basin 10
+    400004: Basin 2
+    400006: Basin 3
+    400008: Basin 4
+    400010: Basin 5
+    400012: Basin 6
+    400014: Basin 7
+    400016: Basin 8
+    400018: Basin 9
+    400020: //RootNode
+    400022: Dunes 1
+    400024: Dunes 2
+    400026: Dunes 3
+    400028: Dunes 4
+    400030: Soft Dune 1
+    400032: Soft Dune 2
+    400034: Soft Dune 3
+    400036: Soft Dune 4
+    2100000: No Name
+    2100002: Rock 2
+    2100004: Rock 1
+    2300000: Basin 1
+    2300002: Basin 10
+    2300004: Basin 2
+    2300006: Basin 3
+    2300008: Basin 4
+    2300010: Basin 5
+    2300012: Basin 6
+    2300014: Basin 7
+    2300016: Basin 8
+    2300018: Basin 9
+    2300020: Dunes 1
+    2300022: Dunes 2
+    2300024: Dunes 3
+    2300026: Dunes 4
+    2300028: Soft Dune 1
+    2300030: Soft Dune 2
+    2300032: Soft Dune 3
+    2300034: Soft Dune 4
+    3300000: Basin 1
+    3300002: Basin 10
+    3300004: Basin 2
+    3300006: Basin 3
+    3300008: Basin 4
+    3300010: Basin 5
+    3300012: Basin 6
+    3300014: Basin 7
+    3300016: Basin 8
+    3300018: Basin 9
+    3300020: Dunes 1
+    3300022: Dunes 2
+    3300024: Dunes 3
+    3300026: Dunes 4
+    3300028: Soft Dune 1
+    3300030: Soft Dune 2
+    3300032: Soft Dune 3
+    3300034: Soft Dune 4
+    4300000: Soft Dune 4
+    4300002: Soft Dune 3
+    4300004: Soft Dune 2
+    4300006: Soft Dune 1
+    4300008: Dunes 4
+    4300010: Dunes 3
+    4300012: Dunes 2
+    4300014: Dunes 1
+    4300016: Basin 10
+    4300018: Basin 9
+    4300020: Basin 8
+    4300022: Basin 7
+    4300024: Basin 6
+    4300026: Basin 4
+    4300028: Basin 5
+    4300030: Basin 3
+    4300032: Basin 2
+    4300034: Basin 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

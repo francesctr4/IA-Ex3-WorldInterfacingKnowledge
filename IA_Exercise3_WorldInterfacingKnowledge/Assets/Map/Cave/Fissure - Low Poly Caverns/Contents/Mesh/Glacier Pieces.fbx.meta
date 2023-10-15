@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: c90921d1949d6a2488cbdc6b9fb8f2a3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Glacier 01
+    100002: Glacier 02
+    100004: Glacier 03
+    100006: Glacier 04
+    100008: Glacier 05
+    100010: Glacier 06
+    100012: Glacier 07
+    100014: Glacier 08
+    100016: Glacier 09
+    100018: Glacier 10
+    100020: Glacier 11
+    100022: Glacier 12
+    100024: Glacier 13
+    100026: Glacier 14
+    100028: Glacier 15
+    100030: Glacier 16
+    100032: Glacier 17
+    100034: Glacier 18
+    100036: Glacier 19
+    100038: Glacier 20
+    100040: //RootNode
+    100042: Rink 1
+    400000: Glacier 01
+    400002: Glacier 02
+    400004: Glacier 03
+    400006: Glacier 04
+    400008: Glacier 05
+    400010: Glacier 06
+    400012: Glacier 07
+    400014: Glacier 08
+    400016: Glacier 09
+    400018: Glacier 10
+    400020: Glacier 11
+    400022: Glacier 12
+    400024: Glacier 13
+    400026: Glacier 14
+    400028: Glacier 15
+    400030: Glacier 16
+    400032: Glacier 17
+    400034: Glacier 18
+    400036: Glacier 19
+    400038: Glacier 20
+    400040: //RootNode
+    400042: Rink 1
+    2100000: No Name
+    2300000: Glacier 01
+    2300002: Glacier 02
+    2300004: Glacier 03
+    2300006: Glacier 04
+    2300008: Glacier 05
+    2300010: Glacier 06
+    2300012: Glacier 07
+    2300014: Glacier 08
+    2300016: Glacier 09
+    2300018: Glacier 10
+    2300020: Glacier 11
+    2300022: Glacier 12
+    2300024: Glacier 13
+    2300026: Glacier 14
+    2300028: Glacier 15
+    2300030: Glacier 16
+    2300032: Glacier 17
+    2300034: Glacier 18
+    2300036: Glacier 19
+    2300038: Glacier 20
+    2300040: Rink 1
+    3300000: Glacier 01
+    3300002: Glacier 02
+    3300004: Glacier 03
+    3300006: Glacier 04
+    3300008: Glacier 05
+    3300010: Glacier 06
+    3300012: Glacier 07
+    3300014: Glacier 08
+    3300016: Glacier 09
+    3300018: Glacier 10
+    3300020: Glacier 11
+    3300022: Glacier 12
+    3300024: Glacier 13
+    3300026: Glacier 14
+    3300028: Glacier 15
+    3300030: Glacier 16
+    3300032: Glacier 17
+    3300034: Glacier 18
+    3300036: Glacier 19
+    3300038: Glacier 20
+    3300040: Rink 1
+    4300000: Glacier 20
+    4300002: Glacier 01
+    4300004: Glacier 02
+    4300006: Glacier 03
+    4300008: Glacier 04
+    4300010: Glacier 05
+    4300012: Glacier 06
+    4300014: Glacier 07
+    4300016: Glacier 08
+    4300018: Glacier 09
+    4300020: Glacier 10
+    4300022: Glacier 11
+    4300024: Glacier 12
+    4300026: Glacier 13
+    4300028: Glacier 14
+    4300030: Glacier 15
+    4300032: Glacier 16
+    4300034: Glacier 17
+    4300036: Glacier 18
+    4300038: Glacier 19
+    4300040: Rink 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

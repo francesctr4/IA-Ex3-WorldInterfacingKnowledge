@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 95a24ac791107154184b8eae59761bd1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Clod 1
+    100004: Crag 1
+    100006: Crag 2
+    100008: Crag 3
+    100010: Crag 4
+    100012: Crag 5
+    100014: Crag 6
+    100016: Crag 7
+    100018: Icicle 01
+    100020: Icicle 02
+    100022: Icicle 03
+    100024: Icicle 04
+    100026: Icicle 05
+    100028: Icicle 06
+    100030: Icicle 07
+    100032: Icicle 08
+    100034: Icicle 09
+    100036: Icicle 10
+    100038: Pillar 1
+    100040: Pillar 2
+    100042: Small Icicle 1
+    100044: Small Icicle 2
+    100046: Small Icicle 3
+    100048: Small Icicle 4
+    100050: Cave Entrance 1
+    100052: Cave Entrance 2
+    100054: Cave Entrance 3
+    100056: Cave Lobby 1
+    100058: Ceiling 1
+    100060: Ceiling 2
+    100062: Corridor 1
+    100064: Corridor 2
+    100066: Corridor 3
+    100068: Crag 8
+    100070: Floor 1
+    100072: Floor 2
+    100074: Floor 3
+    100076: Cliff 1
+    100078: Cliff 2
+    100080: Corridor 4
+    100082: Tunnel 1
+    100084: Tunnel 2
+    100086: Tunnel 3
+    100088: Tunnel 4
+    100090: Tunnel 5
+    100092: Grotto 1
+    100094: Grotto 2
+    100096: Corridor 5
+    100098: Grotto 3
+    100100: Grotto 4
+    100102: Crag 9
+    100104: Ceiling 3
+    100106: Wall 1
+    100108: Wall 2
+    100110: Wall 3
+    100112: Wall 4
+    100114: Wall 5
+    100116: Wall 6
+    100118: Massive Grotto 1
+    400000: //RootNode
+    400002: Clod 1
+    400004: Crag 1
+    400006: Crag 2
+    400008: Crag 3
+    400010: Crag 4
+    400012: Crag 5
+    400014: Crag 6
+    400016: Crag 7
+    400018: Icicle 01
+    400020: Icicle 02
+    400022: Icicle 03
+    400024: Icicle 04
+    400026: Icicle 05
+    400028: Icicle 06
+    400030: Icicle 07
+    400032: Icicle 08
+    400034: Icicle 09
+    400036: Icicle 10
+    400038: Pillar 1
+    400040: Pillar 2
+    400042: Small Icicle 1
+    400044: Small Icicle 2
+    400046: Small Icicle 3
+    400048: Small Icicle 4
+    400050: Cave Entrance 1
+    400052: Cave Entrance 2
+    400054: Cave Entrance 3
+    400056: Cave Lobby 1
+    400058: Ceiling 1
+    400060: Ceiling 2
+    400062: Corridor 1
+    400064: Corridor 2
+    400066: Corridor 3
+    400068: Crag 8
+    400070: Floor 1
+    400072: Floor 2
+    400074: Floor 3
+    400076: Cliff 1
+    400078: Cliff 2
+    400080: Corridor 4
+    400082: Tunnel 1
+    400084: Tunnel 2
+    400086: Tunnel 3
+    400088: Tunnel 4
+    400090: Tunnel 5
+    400092: Grotto 1
+    400094: Grotto 2
+    400096: Corridor 5
+    400098: Grotto 3
+    400100: Grotto 4
+    400102: Crag 9
+    400104: Ceiling 3
+    400106: Wall 1
+    400108: Wall 2
+    400110: Wall 3
+    400112: Wall 4
+    400114: Wall 5
+    400116: Wall 6
+    400118: Massive Grotto 1
+    2100000: No Name
+    2300000: Clod 1
+    2300002: Crag 1
+    2300004: Crag 2
+    2300006: Crag 3
+    2300008: Crag 4
+    2300010: Crag 5
+    2300012: Crag 6
+    2300014: Crag 7
+    2300016: Icicle 01
+    2300018: Icicle 02
+    2300020: Icicle 03
+    2300022: Icicle 04
+    2300024: Icicle 05
+    2300026: Icicle 06
+    2300028: Icicle 07
+    2300030: Icicle 08
+    2300032: Icicle 09
+    2300034: Icicle 10
+    2300036: Pillar 1
+    2300038: Pillar 2
+    2300040: Small Icicle 1
+    2300042: Small Icicle 2
+    2300044: Small Icicle 3
+    2300046: Small Icicle 4
+    2300048: Cave Entrance 1
+    2300050: Cave Entrance 2
+    2300052: Cave Entrance 3
+    2300054: Cave Lobby 1
+    2300056: Ceiling 1
+    2300058: Ceiling 2
+    2300060: Corridor 1
+    2300062: Corridor 2
+    2300064: Corridor 3
+    2300066: Crag 8
+    2300068: Floor 1
+    2300070: Floor 2
+    2300072: Floor 3
+    2300074: Cliff 1
+    2300076: Cliff 2
+    2300078: Corridor 4
+    2300080: Tunnel 1
+    2300082: Tunnel 2
+    2300084: Tunnel 3
+    2300086: Tunnel 4
+    2300088: Tunnel 5
+    2300090: Grotto 1
+    2300092: Grotto 2
+    2300094: Corridor 5
+    2300096: Grotto 3
+    2300098: Grotto 4
+    2300100: Crag 9
+    2300102: Ceiling 3
+    2300104: Wall 1
+    2300106: Wall 2
+    2300108: Wall 3
+    2300110: Wall 4
+    2300112: Wall 5
+    2300114: Wall 6
+    2300116: Massive Grotto 1
+    3300000: Clod 1
+    3300002: Crag 1
+    3300004: Crag 2
+    3300006: Crag 3
+    3300008: Crag 4
+    3300010: Crag 5
+    3300012: Crag 6
+    3300014: Crag 7
+    3300016: Icicle 01
+    3300018: Icicle 02
+    3300020: Icicle 03
+    3300022: Icicle 04
+    3300024: Icicle 05
+    3300026: Icicle 06
+    3300028: Icicle 07
+    3300030: Icicle 08
+    3300032: Icicle 09
+    3300034: Icicle 10
+    3300036: Pillar 1
+    3300038: Pillar 2
+    3300040: Small Icicle 1
+    3300042: Small Icicle 2
+    3300044: Small Icicle 3
+    3300046: Small Icicle 4
+    3300048: Cave Entrance 1
+    3300050: Cave Entrance 2
+    3300052: Cave Entrance 3
+    3300054: Cave Lobby 1
+    3300056: Ceiling 1
+    3300058: Ceiling 2
+    3300060: Corridor 1
+    3300062: Corridor 2
+    3300064: Corridor 3
+    3300066: Crag 8
+    3300068: Floor 1
+    3300070: Floor 2
+    3300072: Floor 3
+    3300074: Cliff 1
+    3300076: Cliff 2
+    3300078: Corridor 4
+    3300080: Tunnel 1
+    3300082: Tunnel 2
+    3300084: Tunnel 3
+    3300086: Tunnel 4
+    3300088: Tunnel 5
+    3300090: Grotto 1
+    3300092: Grotto 2
+    3300094: Corridor 5
+    3300096: Grotto 3
+    3300098: Grotto 4
+    3300100: Crag 9
+    3300102: Ceiling 3
+    3300104: Wall 1
+    3300106: Wall 2
+    3300108: Wall 3
+    3300110: Wall 4
+    3300112: Wall 5
+    3300114: Wall 6
+    3300116: Massive Grotto 1
+    4300000: Icicle 02
+    4300002: Icicle 01
+    4300004: Icicle 03
+    4300006: Icicle 04
+    4300008: Icicle 05
+    4300010: Icicle 06
+    4300012: Icicle 07
+    4300014: Icicle 08
+    4300016: Icicle 09
+    4300018: Icicle 10
+    4300020: Pillar 1
+    4300022: Crag 1
+    4300024: Crag 2
+    4300026: Crag 3
+    4300028: Clod 1
+    4300030: Pillar 2
+    4300032: Small Icicle 1
+    4300034: Small Icicle 2
+    4300036: Small Icicle 3
+    4300038: Small Icicle 4
+    4300040: Crag 4
+    4300042: Crag 5
+    4300044: Crag 6
+    4300046: Crag 7
+    4300048: Floor 1
+    4300050: Floor 2
+    4300052: Floor 3
+    4300054: Corridor 1
+    4300056: Corridor 2
+    4300058: Corridor 3
+    4300060: Crag 8
+    4300062: Cave Entrance 1
+    4300064: Cave Entrance 2
+    4300066: Cave Entrance 3
+    4300068: Ceiling 1
+    4300070: Ceiling 2
+    4300072: Cave Lobby 1
+    4300074: Tunnel 1
+    4300076: Tunnel 2
+    4300078: Tunnel 3
+    4300080: Tunnel 4
+    4300082: Tunnel 5
+    4300084: Corridor 4
+    4300086: Cliff 1
+    4300088: Cliff 2
+    4300090: Grotto 1
+    4300092: Grotto 2
+    4300094: Grotto 3
+    4300096: Grotto 4
+    4300098: Corridor 5
+    4300100: Crag 9
+    4300102: Ceiling 3
+    4300104: Wall 1
+    4300106: Wall 2
+    4300108: Wall 3
+    4300110: Wall 4
+    4300112: Wall 5
+    4300114: Wall 6
+    4300116: Massive Grotto 1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
